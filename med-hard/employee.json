@@ -1,0 +1,64 @@
+{
+    "workers": [
+        {
+            "name": "Schari Norton",
+            "id": 1,
+            "salary": 35000,
+            "department": "Vet-Tech"
+        },
+        {
+            "name": "Fredrick Evans",
+            "id": 2,
+            "salary": 100000,
+            "department": "Study Group"
+        },
+        {
+            "name": "Artea Wright",
+            "id": 3,
+            "salary": 100000,
+            "department": "Study Group"
+        },
+        {
+            "name": "Robert Young",
+            "id": 4,
+            "salary": 85000,
+            "department": "Study Group"
+        },
+        {
+            "name": "Rochelly Reyes",
+            "id": 5,
+            "salary": 150000,
+            "department": "Div-Master"
+        },
+        {
+            "name": "Aaron Moua",
+            "id": 6,
+            "salary": 65000,
+            "department": "RTH"
+        },
+        {
+            "name": "Carol Norton",
+            "id": 7,
+            "salary": 75000,
+            "department": "ACO"
+        },
+        {
+            "name": "LaPhaedra Howard",
+            "id": 8,
+            "salary": 250000,
+            "department": "G.O.A.T"
+        },
+        {
+            "name": "Osmar Rodriguez",
+            "id": 9,
+            "salary": 75000,
+            "department": "RTH"
+        },
+        {
+            "name": "Diego Rodriguez",
+            "id": 10,
+            "salary": 130000,
+            "department": "Game-Maker"
+        }
+    ]
+}
